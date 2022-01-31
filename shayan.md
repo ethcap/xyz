@@ -7,7 +7,7 @@ description: 'Chief Technology Officer'
 # Images
 avatar: './images/shayan.jpeg'
 
-#Socials
+# Socials
 twitter: 'sbetamc'
 github: 'shayanb'
 telegram: 'sbetamc'
