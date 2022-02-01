@@ -13,8 +13,7 @@ avatar: 'avatar.jpg'
 background: './images/background.jpg'
 favicon: 'favicon.ico'
 
-social-links-order: [email, twitter, telegram, github, linkedin, youtube, website]
-
+social-links-order: [email, twitter, telegram, github, linkedin, website]
 
 
 # Online profiles
