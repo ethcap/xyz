@@ -1,9 +1,3 @@
-PATH
-  remote: cover-card
-  specs:
-    cover-card (0.3)
-      jekyll (~> 3.7)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -284,7 +278,6 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
-  cover-card!
   github-pages
 
 BUNDLED WITH
