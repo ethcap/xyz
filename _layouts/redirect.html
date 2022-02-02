@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+        {% include tracking.html %}
+
+        <meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url={{page.redirect_link}}">
+        <script type="text/javascript">
+            window.location.href = "{{page.redirect_link}}"
+        </script>
+        <title>Ether Capital Webinar - Redirect to signup page</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, click <a href='{{page.redirect_link}}'>here</a>.
+    </body>
+</html>
