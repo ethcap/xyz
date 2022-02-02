@@ -11,5 +11,6 @@ avatar: './images/brian.jpeg'
 twitter: 'brianmosoff'
 linkedin: 'brian-mosoff-114080169'
 email: 'brian@ethcap.co'
+telegram: raiderofthelostaoc
 
 ---
