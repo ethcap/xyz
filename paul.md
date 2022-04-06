@@ -8,7 +8,7 @@ description: 'Staking Engineer'
 avatar: './images/paul.jpeg'
 
 # Socials
-# twitter: ''
+twitter: '@ethnologism'
 # linkedin: ''
 email: 'paul@ethcap.co'
 # telegram: 
