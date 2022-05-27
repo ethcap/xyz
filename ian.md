@@ -5,7 +5,7 @@ title: 'Ian McPherson'
 description: 'President - Chief Financial Officer'
 
 # Images
-avatar: './images/ian.png'
+avatar: './images/ian.jpg'
 
 # Socials
 telegram: 'Ian_McP'
