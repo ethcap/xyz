@@ -5,12 +5,12 @@ title: 'Constantin Lobov'
 description: 'Product Manager'
 
 # Images
-avatar: './images/constantin.jpeg'
+avatar: './images/constantin.png'
 
 # Socials
-# Dashboard Beta: 'https://www.beta.ethcap.co/'
-# linkedin: 'https://www.linkedin.com/in/constantin-l-97376b1a/'
+Beta: 'https://www.beta.ethcap.co/'
 email: 'constantin@ethcap.co'
-# telegram: 'https://t.me/l_consta'
+linkedin: 'https://www.linkedin.com/in/constantin-l-97376b1a/'
+telegram: 'https://t.me/l_consta'
 
 ---
